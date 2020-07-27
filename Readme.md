@@ -8,10 +8,12 @@
 
 ## Built With
 
-- REACT 
+- JavaScript 
 - HTML 
 - CSS
+## Technologies used
 
+-React
 
 
 ## Getting Started
