@@ -3,7 +3,7 @@
 
 
 
-![screenshot](./screensnip.png)
+![screenshot](./screensnip.PNG)
 
 
 ## Built With
